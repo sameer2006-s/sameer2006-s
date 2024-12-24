@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I’m an engineering student passionate about leve
 ---
 
 ### 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/sameer-ahmed-sameer)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sameer-ahmed-sameer)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:sameer.elsweefy@gmail.com)  
 
 ---
