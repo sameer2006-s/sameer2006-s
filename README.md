@@ -1,6 +1,6 @@
 # Hi, I'm Sameer! 👋  
 
-🎓 **Engineering Student** | 🌐 **Full Stack Web Developer** | 🚀 **Innovator**  
+🎓 **Engineering Student** | 🌐 **Full Stack Web Developer** 
 
 ---
 
